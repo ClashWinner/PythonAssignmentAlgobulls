@@ -13,4 +13,4 @@ Task 4 Plotting Candlestick chart:
     - Then Call the candlestick function with class instance
         ex:
                 candlestick_chart.candlestick()
-    - Candlestick chart will get Ploted
+    - Candlestick chart will get Ploted 
